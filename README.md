@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!] (https://memory-matching-pi.vercel.app/)
+## <b> [Click here to Play the GAME!!](https://memory-matching-pi.vercel.app/)
 
 This project is made using HTML,CSS &amp; JavaScript.
 
